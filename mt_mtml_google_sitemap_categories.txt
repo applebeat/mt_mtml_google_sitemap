@@ -1,0 +1,2 @@
+<mt:Categories><mt:CategoryArchiveLink>index.html
+</mt:categories>
